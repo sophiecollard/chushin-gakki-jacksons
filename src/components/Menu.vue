@@ -8,9 +8,9 @@
         <a>Rhoads</a>
         <ul>
           <li><a>Jackson RR Professional</a></li>
-          <li><a>Grover Jackson RR Professional</a></li>
-          <li><a class="is-active" href="grover_jackson_rr_custom.html">Grover Jackson RR Custom</a></li>
-          <li><a>Grover Jackson Dan Spitz Professional</a></li>
+          <li><router-link to="/db/rr/grover-jackson-rr-professional">Grover Jackson RR Professional</router-link></li>
+          <li><router-link class="is-active" to="/db/rr/grover-jackson-rr-custom">Grover Jackson RR Custom</router-link></li>
+          <li><router-link to="/db/rr/grover-jackson-dan-spitz">Grover Jackson Dan Spitz Professional</router-link></li>
           <li><a>Grover Jackson RR .I-195</a></li>
           <li><a>Grover Jackson RR .I-170</a></li>
           <li><a>Grover Jackson RR .S-350</a></li>

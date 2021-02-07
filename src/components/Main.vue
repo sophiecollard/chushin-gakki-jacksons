@@ -1,14 +1,9 @@
 <template>
-  <GroverJacksonRRCustom/>
+  <router-view/>
 </template>
 
 <script>
-import GroverJacksonRRCustom from './database/rhoads/GroverJacksonRRCustom.vue'
-
 export default {
-  name: 'Main',
-  components: {
-    GroverJacksonRRCustom
-  }
+  name: 'Main'
 }
 </script>

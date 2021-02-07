@@ -11,12 +11,22 @@ const routes = [
     component: Home
   },
   {
-    path: '/about',
-    name: 'About',
+    path: '/db/rr/grover-jackson-rr-professional',
+    name: 'GroverJacksonRRProfessional',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
-    component: () => import(/* webpackChunkName: "about" */ '../views/About.vue')
+    component: () => import('../views/database/rhoads/GroverJacksonRRProfessional.vue')    
+  },
+  {
+    path: '/db/rr/grover-jackson-rr-custom',
+    name: 'GroverJacksonRRCustom',
+    component: () => import('../views/database/rhoads/GroverJacksonRRCustom.vue')
+  },
+  {
+    path: '/db/rr/grover-jackson-dan-spitz',
+    name: 'GroverJacksonDanSpitz',
+    component: () => import('../views/database/rhoads/GroverJacksonDanSpitz.vue')
   }
 ]
 
