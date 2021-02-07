@@ -30,6 +30,7 @@
       <p><strong>Neck:</strong> Quartersawn Maple</p>
       <p><strong>Fingerboard:</strong> Ebony</p>
       <p><strong>Inlays:</strong> MOP Sharkfins</p>
+      <p><strong>Binding:</strong> Ivory</p>
       <p><strong>Fret Wire:</strong> Rockwell C6/Brinell 171</p>
       <p><strong>Fret Size:</strong> .118 x .114 x .051 x .037</p>
       <p><strong>Pickups:</strong> <i>As per 1990 catalogue:</i> J-50N (neck), J-50B (bridge)</p>
@@ -40,58 +41,12 @@
       <p><strong>Bridge Mount:</strong> Non-recessed with full stretch cavity</p>
       <p><strong>Finishes:</strong> <i>As per 1990 catalogue:</i> Pearl Gold, Metallic Black, Pearl Blue White</p>
       <p><strong style="color: white;">Finishes:</strong> <i>As per 1993 catalogue:</i> Metallic Black, Pearl Blue White, Aluminium, Dark Blue</p>
+      <p><strong>Hardware:</strong> Black</p>
       <p><strong>Price:</strong> <i>As per 1990 catalogue:</i> &#165;195,000 (with hard case)</p>
       <p><strong style="color: white;">Price:</strong> <i>As per 1993 catalogue:</i> &#165;200,000 (with hard case)</p>
     </div>
 
-    <!-- gallery -->
-    <div class="block">
-      <h2 class="title is-4">Gallery</h2>
-      <div class="columns">
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-      </div>
-      <div class="columns">
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-        <div class="column">
-          <figure class="image is-128x128">
-            <img src="https://bulma.io/images/placeholders/128x128.png">
-          </figure>
-        </div>
-      </div>
-    </div>
+    <Gallery/>
 
     <!-- catalogue links -->
     <div class="block">
@@ -112,11 +67,13 @@
 </template>
 
 <script>
+import Gallery from '../../../components/Gallery.vue'
 import Title from '../../../components/Title.vue'
 
 export default {
   name: 'GroverJacksonRRCustom',
   components: {
+    Gallery,
     Title
   }
 }
