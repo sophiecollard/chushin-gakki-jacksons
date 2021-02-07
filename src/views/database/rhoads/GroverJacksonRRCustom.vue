@@ -1,9 +1,7 @@
 <template>
   <article>
 
-    <!-- title -->
-    <h1 class="title">Grover Jackson Randy Rhoads Custom</h1>
-    <p class="subtitle">1990-1994</p>
+    <Title title="Grover Jackson Randy Rhoads Custom" subtitle="1990-1994"/>
 
     <!-- tags -->
     <div class="block">
@@ -114,7 +112,12 @@
 </template>
 
 <script>
+import Title from '../../../components/Title.vue'
+
 export default {
-  name: 'GroverJacksonRRCustom'
+  name: 'GroverJacksonRRCustom',
+  components: {
+    Title
+  }
 }
 </script>

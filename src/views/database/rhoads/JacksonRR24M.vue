@@ -1,14 +1,18 @@
 <template>
   <article>
-  
-    <!-- title -->
-    <h1 class="title">Jackson RR24M</h1>
+
+    <Title title="Jackson RR24M"/>
 
   </article>  
 </template>
 
 <script>
+import Title from '../../../components/Title.vue'
+
 export default {
-  name: 'JacksonRR24M'
+  name: 'JacksonRR24M',
+  components: {
+    Title
+  }
 }
 </script>

@@ -1,15 +1,18 @@
 <template>
   <article>
   
-    <!-- title -->
-    <h1 class="title">Grover Jackson Dan Spitz Professional</h1>
-    <p class="subtitle">1991-1994</p>
+    <Title title="Grover Jackson Dan Spitz Professional" subtitle="1991-1994"/>
 
   </article>  
 </template>
 
 <script>
+import Title from '../../../components/Title.vue'
+
 export default {
-  name: 'GroverJacksonDanSpitz'
+  name: 'GroverJacksonDanSpitz',
+  components: {
+    Title
+  }
 }
 </script>

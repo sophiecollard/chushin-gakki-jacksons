@@ -1,14 +1,18 @@
 <template>
   <article>
-  
-    <!-- title -->
-    <h1 class="title">Grover Jackson RR .S-350</h1>
+
+    <Title title="Grover Jackson RR .S-350"/>
 
   </article>  
 </template>
 
 <script>
+import Title from '../../../components/Title.vue'
+
 export default {
-  name: 'JacksonRRS350'
+  name: 'JacksonRRS350',
+  components: {
+    Title
+  }
 }
 </script>
