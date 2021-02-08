@@ -1,12 +1,17 @@
 <template>
   <aside class="menu">
-    <p class="menu-label">Model Database</p>
-    <ul class="menu-list">
+    <p class="menu-label" v-show=databaseMenuShown>Model Database</p>
+    <ul class="menu-list" v-show=databaseMenuShown>
       <li><a>Dinky</a></li>
-      <li><a>Soloist</a></li>
       <li>
-        <a>Rhoads</a>
-        <ul>
+        <a v-on:click=toggleSoloistSection>Soloist</a>
+        <ul v-show=soloistSectionExpanded>
+          <li>Jackson Soloist Professional</li>
+        </ul>
+      </li>
+      <li>
+        <a v-on:click=toggleRhoadsSection>Rhoads</a>
+        <ul v-show=rhoadsSectionExpanded>
           <li><router-link to="/db/rr/jackson-rr-professional">Jackson RR Professional</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-professional">Grover Jackson RR Standard/Professional</router-link></li>
           <li><router-link class="is-active" to="/db/rr/grover-jackson-rr-custom">Grover Jackson RR Custom</router-link></li>
@@ -28,15 +33,15 @@
       <li><a>Warrior</a></li>
       <li><a>Other</a></li>
     </ul>
-    <p class="menu-label">Catalogue Scans</p>
-    <ul class="menu-list">
+    <p class="menu-label" v-show=catalogueScansMenuShown>Catalogue Scans</p>
+    <ul class="menu-list" v-show=catalogueScansMenuShown>
       <li><a>Grover Jackson 1999-2000</a></li>
       <li><a>Jackson Stars 2004</a></li>
       <li><a>Jackson Stars 2005</a></li>
       <li><a>Jackson Stars 2008</a></li>
     </ul>
-    <p class="menu-label">Reviews</p>
-    <ul class="menu-list">
+    <p class="menu-label" v-show=reviewsMenuShown>Reviews</p>
+    <ul class="menu-list" v-show=reviewsMenuShown>
       <li><a>2007 Jackson Stars RR Custom</a></li>
       <li><a>2005 Jackson Stars RR Semi-Custom</a></li>
       <li><a>1992 Grover Jackson RR Custom</a></li>
@@ -48,8 +53,32 @@
 export default {
   name: 'Menu',
   props: {
-    activeMenuSection: String,
-    currentPage: String
+    activeMenu: String,
+    activeSection: String
+  },
+  data: function () {
+    return {
+      // menus toggle
+      databaseMenuShown: this.activeMenu == 'database',
+      catalogueScansMenuShown: this.activeMenu == 'catalogue-scans',
+      reviewsMenuShown: this.activeMenu == 'reviews',
+      // database sections toggle
+      dinkySectionExpanded: this.activeSection == 'dinky',
+      soloistSectionExpanded: this.activeSection == 'soloist',
+      rhoadsSectionExpanded: this.activeSection == 'rhoads',
+      kingVSectionExpanded: this.activeSection == 'king-v',
+      kellySectionExpanded: this.activeSection == 'kelly',
+      warriorSectionExpanded: this.activeSection == 'warrior',
+      otherSectionExpanded: this.activeSection == 'other'
+    }
+  },
+  methods: {
+    toggleSoloistSection: function () {
+      this.soloistSectionExpanded = !this.soloistSectionExpanded
+    },
+    toggleRhoadsSection: function () {
+      this.rhoadsSectionExpanded = !this.rhoadsSectionExpanded
+    }
   }
 }
 </script>

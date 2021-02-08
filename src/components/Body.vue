@@ -4,7 +4,7 @@
       <div class="columns">
         <!-- menu -->
         <div class="column is-one-quarter">
-          <Menu activeMenuSection="database" currentPage="grover-jackson-rr-custom"/>
+          <Menu activeMenu="database" activeSection="rhoads"/>
         </div>
         <!-- page contents -->
         <div class="column">
