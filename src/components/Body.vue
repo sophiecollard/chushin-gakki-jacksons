@@ -8,7 +8,7 @@
         </div>
         <!-- page contents -->
         <div class="column">
-          <Main/>
+          <router-view/>
         </div>
         <!-- extras -->
         <div class="column is-one-quarter">
@@ -21,14 +21,12 @@
 
 <script>
 import Menu from './Menu.vue'
-import Main from './Main.vue'
 import Extras from './Extras.vue'
 
 export default {
   name: 'Body',
   components: {
     Menu,
-    Main,
     Extras
   },
   props: {
