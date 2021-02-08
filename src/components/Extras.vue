@@ -1,10 +1,10 @@
 <template>
   <div>
 
-    <!-- picture -->
+    <!-- catalogue shot -->
     <div class="box" style="box-shadow: 0 0 0 0;">
       <figure class="image is-320x640">
-        <img src="https://bulma.io/images/placeholders/320x640.png">
+        <img v-bind:src=catalogueShot>
       </figure>
     </div>
 
@@ -13,6 +13,9 @@
 
 <script>
 export default {
-  name: 'Extras'
+  name: 'Extras',
+  props: {
+    catalogueShot: String
+  }
 }
 </script>

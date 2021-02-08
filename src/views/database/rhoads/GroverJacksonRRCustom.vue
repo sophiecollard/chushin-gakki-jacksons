@@ -75,6 +75,10 @@ export default {
   components: {
     Gallery,
     Title
+  },
+  beforeMount: function () {
+    // Loaded from the /public folder and not from /src/assets
+    this.$emit('update-catalogue-shot', '/database/grover-jackson-rr-custom.png')
   }
 }
 </script>

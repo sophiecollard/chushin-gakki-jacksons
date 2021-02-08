@@ -8,11 +8,11 @@
         </div>
         <!-- page contents -->
         <div class="column">
-          <router-view/>
+          <router-view v-on:update-catalogue-shot="updateCatalogueShot"/>
         </div>
         <!-- extras -->
         <div class="column is-one-quarter">
-          <Extras/>
+          <Extras v-bind:catalogueShot="extrasCatalogueShot"/>
         </div>
       </div>
     </div>
@@ -31,6 +31,20 @@ export default {
   },
   props: {
     activeMenuSection: String
+  },
+  data: function () {
+    return {
+      extrasCatalogueShot: 'https://bulma.io/images/placeholders/320x640.png'
+    }
+  },
+  methods: {
+    updateCatalogueShot: function (catalogueShot) {
+      if (typeof catalogueShot != undefined) {
+        this.extrasCatalogueShot = catalogueShot
+      } else {
+        this.extrasCatalogueShot = 'https://bulma.io/images/placeholders/320x640.png'
+      }
+    }
   }
 }
 </script>
