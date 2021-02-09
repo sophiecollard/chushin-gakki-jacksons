@@ -2,11 +2,11 @@
   <aside class="menu">
     <p class="menu-label" v-show=databaseMenuShown>Model Database</p>
     <ul class="menu-list" v-show=databaseMenuShown>
-      <li><a>Dinky</a></li>
       <li>
         <a v-on:click=toggleSoloistSection>Soloist</a>
         <ul v-show=soloistSectionExpanded>
-          <li>Jackson Soloist Professional</li>
+          <li><a>Jackson Soloist Professional</a></li>
+          <li><a>Grover Jackson Soloist Custom (SHH/HH)</a></li>
         </ul>
       </li>
       <li>
@@ -28,10 +28,26 @@
           <li><router-link to="/db/rr/jackson-matt-tuck">Jackson Matt Tuck Signature Rhoads</router-link></li>
         </ul>
       </li>
-      <li><a>King V</a></li>
-      <li><a>Kelly</a></li>
-      <li><a>Warrior</a></li>
-      <li><a>Other</a></li>
+      <li>
+        <a v-on:click=toggleKingVSection>King V</a>
+        <ul v-show=kingVSectionExpanded>
+          <li><a>Jackson King V Professional</a></li>
+          <li><a>Grover Jackson King V Custom</a></li>
+          <li><a>Grover Jackson Dave Mustaine Professional</a></li>
+        </ul>
+      </li>
+      <li>
+        <a v-on:click=toggleKellySection>Kelly</a>
+        <ul v-show=kellySectionExpanded>
+          <li><a>Grover Jackson Kelly Custom</a></li>
+        </ul>
+      </li>
+      <li>
+        <a v-on:click=toggleWarriorSection>Warrior</a>
+        <ul v-show=warriorSectionExpanded>
+          <li><a>Jackson Warrior Professional</a></li>
+        </ul>
+      </li>
     </ul>
     <p class="menu-label" v-show=catalogueScansMenuShown>Catalogue Scans</p>
     <ul class="menu-list" v-show=catalogueScansMenuShown>
@@ -63,21 +79,28 @@ export default {
       catalogueScansMenuShown: this.activeMenu == 'catalogue-scans',
       reviewsMenuShown: this.activeMenu == 'reviews',
       // database sections toggle
-      dinkySectionExpanded: this.activeSection == 'dinky',
       soloistSectionExpanded: this.activeSection == 'soloist',
       rhoadsSectionExpanded: this.activeSection == 'rhoads',
       kingVSectionExpanded: this.activeSection == 'king-v',
       kellySectionExpanded: this.activeSection == 'kelly',
-      warriorSectionExpanded: this.activeSection == 'warrior',
-      otherSectionExpanded: this.activeSection == 'other'
+      warriorSectionExpanded: this.activeSection == 'warrior'
     }
   },
   methods: {
-    toggleSoloistSection: function () {
+    toggleSoloistSection () {
       this.soloistSectionExpanded = !this.soloistSectionExpanded
     },
-    toggleRhoadsSection: function () {
+    toggleRhoadsSection () {
       this.rhoadsSectionExpanded = !this.rhoadsSectionExpanded
+    },
+    toggleKingVSection () {
+      this.kingVSectionExpanded = !this.kingVSectionExpanded
+    },
+    toggleKellySection () {
+      this.kellySectionExpanded = !this.kellySectionExpanded
+    },
+    toggleWarriorSection () {
+      this.warriorSectionExpanded = !this.warriorSectionExpanded
     }
   }
 }
