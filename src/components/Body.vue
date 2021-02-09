@@ -6,13 +6,9 @@
         <div class="column is-one-quarter">
           <Menu activeMenu="database" activeSection="rhoads"/>
         </div>
-        <!-- page contents -->
-        <div class="column">
-          <router-view v-on:update-catalogue-shot="updateCatalogueShot"/>
-        </div>
-        <!-- extras -->
-        <div class="column is-one-quarter">
-          <Extras v-bind:catalogueShot="extrasCatalogueShot"/>
+        <!-- core contents and extras -->
+        <div class="column is-three-quarters">
+          <router-view/>
         </div>
       </div>
     </div>
@@ -28,23 +24,6 @@ export default {
   components: {
     Menu,
     Extras
-  },
-  props: {
-    activeMenuSection: String
-  },
-  data: function () {
-    return {
-      extrasCatalogueShot: 'https://bulma.io/images/placeholders/320x640.png'
-    }
-  },
-  methods: {
-    updateCatalogueShot: function (catalogueShot) {
-      if (typeof catalogueShot != undefined) {
-        this.extrasCatalogueShot = catalogueShot
-      } else {
-        this.extrasCatalogueShot = 'https://bulma.io/images/placeholders/320x640.png'
-      }
-    }
   }
 }
 </script>

@@ -1,7 +1,7 @@
 <template>
   <div id="app">
     <Header activeMenuSection="database"/>
-    <Body activeMenuSection="database"/>
+    <Body/>
   </div>
 </template>
 
