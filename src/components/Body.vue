@@ -17,13 +17,11 @@
 
 <script>
 import Menu from './Menu.vue'
-import Extras from './Extras.vue'
 
 export default {
   name: 'Body',
   components: {
-    Menu,
-    Extras
+    Menu
   }
 }
 </script>
