@@ -13,7 +13,7 @@
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong> Floyd Rose Original</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
-    <p><strong>Finishes:</strong> See-through Purple, See-through Blue, See-through Green</p>
+    <p><strong>Finishes:</strong> SP (See-through Purple), SB (See-through Blue), SG (See-through Green)</p>
     <p><strong>Hardware:</strong> Gold</p>
     <p><strong>Price:</strong> &#165;350,000 (with tour case)</p>
   </div>

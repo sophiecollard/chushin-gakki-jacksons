@@ -17,7 +17,7 @@
     <p><strong style="color: white;">Bridge:</strong> <i>RR-J1B/RR-J1BE:</i> Tune-o-matic with string-through-body</p>
     <p><strong>Bridge Mount:</strong> <i>RR-J1/RR-J1E:</i> Recessed</p>
     <p><strong style="color: white;">Bridge Mount:</strong> <i>RR-J1K/RR-J1EK/RR-J1B/RR-J1BE:</i> N/A</p>
-    <p><strong>Finishes:</strong> Black, Trans. Black, Trans. Snow White, Trans. Red, Trans. Blue</p>
+    <p><strong>Finishes:</strong> BK (Black), TBKS (See-through Black), TSWS (See-through Snow White), TRS (See-through Red), TBLS (See-through Blue)</p>
     <p><strong>Hardware:</strong> Black</p>
     <p><strong>Price:</strong> <i>RR-J1</i> &#165;220,000 (as per 2005 catalogue)</p>
     <p><strong style="color: white;">Price:</strong> <i>RR-J1E</i> &#165;225,000 (as per 2005 catalogue)</p>

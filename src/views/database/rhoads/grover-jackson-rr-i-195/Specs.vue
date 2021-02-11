@@ -13,7 +13,7 @@
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong> Floyd Rose Original</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
-    <p><strong>Finishes:</strong> MPB-BK, MFP-BK, MMG-BK</p>
+    <p><strong>Finishes:</strong> MPB-BK (Metallic Blue), MFP-BK (?), MMG-BK (?)</p>
     <p><strong>Hardware:</strong> Black</p>
     <p><strong>Price:</strong> &#165;195,000 (with hard case)</p>
   </div>
