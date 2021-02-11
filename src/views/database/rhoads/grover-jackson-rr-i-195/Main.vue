@@ -5,6 +5,7 @@
       <Title title="Grover Jackson RR .I-195"/>
       <Tags/>
       <Specs/>
+      <CatalogueLinks/>
     </div>
 
     <div class="column is-one-third">
@@ -15,6 +16,7 @@
 </template>
 
 <script>
+import CatalogueLinks from './CatalogueLinks.vue'
 import Extras from '../../../../components/Extras.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
@@ -23,6 +25,7 @@ import Title from '../../../../components/Title.vue'
 export default {
   name: 'JacksonRRI195',
   components: {
+    CatalogueLinks,
     Extras,
     Specs,
     Tags,
