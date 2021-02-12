@@ -7,6 +7,16 @@
       </a>
     </p>
     <p>
+      <a href="https://www.vintagejapanguitars.com.br/en/jackson-charvel-1992-japan-catalogue/">
+        Charvel &#38; Grover Jackson catalogue (1992, Japan)
+      </a>
+    </p>
+    <p>
+      <a href="https://www.vintagejapanguitars.com.br/en/jackson-charvel-1992-japan-catalogue-2/">
+        Charvel &#38; Grover Jackson catalogue (1992, Japan)
+      </a>
+    </p>
+    <p>
       <a href="https://assets.ctfassets.net/4jcppgetbqrc/54C6GyN9W8wYuGOekKMgoe/c181e59f1da5f4158123dc1d77044774/JacksonCharvel-1993GJ-Japan-catalog.pdf">
         Grover Jackson &#38; Charvel catalogue (1993, Japan)
       </a>
