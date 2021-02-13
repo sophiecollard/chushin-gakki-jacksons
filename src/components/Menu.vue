@@ -5,8 +5,8 @@
       <li>
         <a v-on:click=toggleSoloistSection>Soloist</a>
         <ul v-show=soloistSectionExpanded>
-          <li><a>Jackson Soloist Professional</a></li>
-          <li><a>Grover Jackson Soloist Custom (SHH/HH)</a></li>
+          <li><router-link to="/db/sl/jackson-slsmg">Jackson SLSMG</router-link></li>
+          <li><router-link to="/db/sl/jackson-sls3">Jackson SLS3</router-link></li>
         </ul>
       </li>
       <li>

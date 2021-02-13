@@ -16,7 +16,7 @@
     <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> <i>2006 Limited Edition:</i> Black with Yellow Bevels</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>Later Models:</i> White with Black Bevels, Black with Yellow Bevels, Black with Red Bevels, Gold with Black Bevels</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Later Models:</i> White with Black Bevels, Black with Yellow Bevels, Black with Red Bevels, Gold with Black Bevels (2009 limited edition)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>

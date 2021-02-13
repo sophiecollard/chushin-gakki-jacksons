@@ -11,11 +11,21 @@ const routes = [
     component: Home
   },
   {
-    path: '/db/rr/jackson-rr-professional',
-    name: 'JacksonRRProfessional',
+    path: '/db/sl/jackson-slsmg',
+    name: 'JacksonSLSMG',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
+    component: () => import('../views/database/soloist/jackson-slsmg/Main.vue')
+  },
+  {
+    path: '/db/sl/jackson-sls3',
+    name: 'JacksonSLS3',
+    component: () => import('../views/database/soloist/jackson-sls3/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-rr-professional',
+    name: 'JacksonRRProfessional',
     component: () => import('../views/database/rhoads/jackson-rr-professional/Main.vue')    
   },
   {
