@@ -13,7 +13,7 @@
     <p><strong>Controls:</strong> 1x Volume</p>
     <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
-    <p><strong>Finishes:</strong> White with Black Bevels, Black with White Bevels</p>
+    <p><strong>Finishes:</strong> Snow White with Black Bevels, Black with Snow White Bevels</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>
