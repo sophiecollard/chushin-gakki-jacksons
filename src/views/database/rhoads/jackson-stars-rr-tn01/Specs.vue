@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Mahogany</p>
     <p><strong>Neck:</strong> Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> <i>RR-TN01/RR-TN01STB:</i> Seymour Duncan SH-1n (neck), TB-4/SH-4 (bridge)</p>
     <p><strong style="color: white;">Pickups:</strong> <i>RR-TN01EMG:</i> EMG-81 (neck and bridge)</p>

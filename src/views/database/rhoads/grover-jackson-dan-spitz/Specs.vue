@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Yellow Poplar</p>
     <p><strong>Neck:</strong> Quartersawn Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Reverse Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Reverse Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Fret Wire:</strong> Rockwell C6/Brinell 171</p>
     <p><strong>Fret Size:</strong> .118 x .114 x .051 x .037</p>

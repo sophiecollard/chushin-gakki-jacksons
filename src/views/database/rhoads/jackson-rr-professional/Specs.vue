@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Poplar</p>
     <p><strong>Neck:</strong> Quartersawn Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> J-50N (neck), J-50B (bridge), JE-1200 Active Mid Boost Circuit</p>
     <p><strong>Controls:</strong> Volume, Mid Boost, Tone, 3-Way Toggle Switch</p>

@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Alder</p>
     <p><strong>Neck:</strong> Quartersawn Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> Perloid Chevrons</p>
+    <p><strong>Inlays:</strong> Pearloid Chevrons</p>
     <p><strong>Binding:</strong> Black</p>
     <p><strong>Pickups:</strong> EMG-85 (neck), EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 3-Way Toggle Switch</p>

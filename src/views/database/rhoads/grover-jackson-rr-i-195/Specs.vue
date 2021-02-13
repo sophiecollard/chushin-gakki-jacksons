@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Poplar</p>
     <p><strong>Neck:</strong> Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> Seymour Duncan SH-4 (neck), TB-5 (bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>

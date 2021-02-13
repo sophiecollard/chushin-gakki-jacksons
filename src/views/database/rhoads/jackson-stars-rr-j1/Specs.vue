@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Ash with 5A Flame Maple Veneer on see-through finishes</p>
     <p><strong>Neck:</strong> Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> <i>RR-J1/RR-J1K/RR-J1B:</i> Seymour Duncan SH-1n (neck), TB-5/SH-5 (bridge)</p>
     <p><strong style="color: white;">Pickups:</strong> <i>RR-J1E/RR-J1EK/RR-J1BE:</i> EMG-81 (neck and bridge)</p>

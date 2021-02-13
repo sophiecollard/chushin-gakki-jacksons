@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Mahogany</p>
     <p><strong>Neck:</strong> 3-piece Mahogany</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> Perloid Pentagrams</p>
+    <p><strong>Inlays:</strong> Pearloid Pentagrams</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> Seymour Duncan Iommi/El Diablo (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume</p>

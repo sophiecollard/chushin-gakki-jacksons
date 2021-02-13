@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Alder</p>
     <p><strong>Neck:</strong> Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickup:</strong> EMG-H3 with EMG-PA2 boost</p>
     <p><strong>Controls:</strong> 1x Volume, Switch for boost</p>

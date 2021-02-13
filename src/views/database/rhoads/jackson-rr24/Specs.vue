@@ -7,8 +7,8 @@
     <p><strong>Body:</strong> Alder</p>
     <p><strong>Neck:</strong> Quartersawn Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> <i>2006 Limited Edition:</i> Reverse Perloid Sharkfins</p>
-    <p><strong style="color: white;">Inlays:</strong> <i>Later Models:</i> Perloid Sharkfins</p>
+    <p><strong>Inlays:</strong> <i>2006 Limited Edition:</i> Pearloid Reverse Sharkfins</p>
+    <p><strong style="color: white;">Inlays:</strong> <i>Later Models:</i> Pearloid Sharkfins</p>
     <p><strong>Binding:</strong> <i>2006 Limited Edition:</i> Ivory</p>
     <p><strong style="color: white;">Binding:</strong> <i>Later Models:</i> Black</p>
     <p><strong>Pickups:</strong> EMG-81 (bridge)</p>

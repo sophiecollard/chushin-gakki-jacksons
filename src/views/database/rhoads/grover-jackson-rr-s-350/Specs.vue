@@ -7,7 +7,7 @@
     <p><strong>Body:</strong> Flame Maple / Mahogany / Flame Maple (3 ply)</p>
     <p><strong>Neck:</strong> Mahogany</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
-    <p><strong>Inlays:</strong> MOP Sharkfins</p>
+    <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> Seymour Duncan APH-1n (neck), TB-5 (bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
