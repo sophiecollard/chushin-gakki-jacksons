@@ -16,9 +16,9 @@
     <p><strong>Bridge:</strong> Jackson-branded Schaller (JT-590) double locking tremolo</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> <i>1990-1991:</i> Midnight Black, Ferrari Red, Pearl Yellow, Pearl Yellow with Black Bevels, Snow White Pearl with Black Bevels, Radiant Red with Black Bevels</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>1992:</i> BLK (Black), DMB (Dark Metallic Blue), SW (Snow White)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>1993:</i> BLK (Black), DMB (Dark Metallic Blue), SW (Snow White), DMR (Dark Metallic Red)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>1994-1995:</i> BLK (Black), DMB (Dark Metallic Blue), BC (?)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>1992:</i> BLK (Black), DMB (Deep Metallic Blue), SW (Snow White)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>1993:</i> BLK (Black), DMB (Deep Metallic Blue), SW (Snow White), DMR (Deep Metallic Red)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>1994-1995:</i> BLK (Black), DMB (Deep Metallic Blue), BC (?)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>
