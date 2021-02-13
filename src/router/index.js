@@ -11,11 +11,16 @@ const routes = [
     component: Home
   },
   {
-    path: '/db/sl/jackson-slsmg',
-    name: 'JacksonSLSMG',
+    path: '/db/sl/jackson-soloist-pro',
+    name: 'JacksonSoloistPro',
     // route level code-splitting
     // this generates a separate chunk (about.[hash].js) for this route
     // which is lazy-loaded when the route is visited.
+    component: () => import('../views/database/soloist/jackson-soloist-pro/Main.vue')
+  },
+  {
+    path: '/db/sl/jackson-slsmg',
+    name: 'JacksonSLSMG',
     component: () => import('../views/database/soloist/jackson-slsmg/Main.vue')
   },
   {
