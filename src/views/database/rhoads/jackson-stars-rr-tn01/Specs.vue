@@ -15,7 +15,6 @@
     <p><strong>Bridge:</strong> <i>RR-TN01/RR-TN01EMG:</i> Floyd Rose Original</p>
     <p><strong style="color: white;">Bridge:</strong> <i>RR-TN01STB:</i> Tune-o-matic Gotoh bridge with string-through-body</p>
     <p><strong>Bridge Mount:</strong> <i>RR-TN01/RR-TN01EMG:</i> Recessed</p>
-    <p><strong style="color: white;">Bridge Mount:</strong> <i>RR-TN01STB:</i> N/A</p>
     <p><strong>Finishes:</strong> Black</p>
     <p><strong>Hardware:</strong> <i>RR-TN01/RR-TN01EMG:</i> Black</p>
     <p><strong style="color: white;">Hardware:</strong> <i>RR-TN01STB:</i> Gold</p>
