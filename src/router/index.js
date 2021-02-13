@@ -24,9 +24,9 @@ const routes = [
     component: () => import('../views/database/soloist/jackson-sls3/Main.vue')
   },
   {
-    path: '/db/rr/jackson-rr-professional',
-    name: 'JacksonRRProfessional',
-    component: () => import('../views/database/rhoads/jackson-rr-professional/Main.vue')    
+    path: '/db/rr/jackson-rr-pro',
+    name: 'JacksonRRPro',
+    component: () => import('../views/database/rhoads/jackson-rr-pro/Main.vue')
   },
   {
     path: '/db/rr/grover-jackson-rr-professional',

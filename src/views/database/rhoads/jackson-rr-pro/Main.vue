@@ -2,14 +2,14 @@
   <div class="columns">
 
     <div class="column is-two-thirds">
-      <Title title="Jackson Randy Rhoads Pro/Professional" subtitle="1990-1995"/>
+      <Title title="Jackson Randy Rhoads Pro" subtitle="1990-1995"/>
       <Tags/>
       <Specs/>
       <CatalogueLinks/>
     </div>
 
     <div class="column is-one-third">
-      <Extras catalogueShot="/database/jackson-rr-professional.png"/>
+      <Extras catalogueShot="/database/jackson-rr-pro.png"/>
     </div>
 
   </div>  
@@ -23,7 +23,7 @@ import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
 
 export default {
-  name: 'JacksonRRProfessional',
+  name: 'JacksonRRPro',
   components: {
     CatalogueLinks,
     Extras,
