@@ -19,6 +19,11 @@ const routes = [
     component: () => import('../views/database/soloist/jackson-soloist-pro/Main.vue')
   },
   {
+    path: '/db/sl/jackson-soloist-archtop-pro',
+    name: 'JacksonSoloistArchtopPro',
+    component: () => import('../views/database/soloist/jackson-soloist-archtop-pro/Main.vue')
+  },
+  {
     path: '/db/sl/jackson-slsmg',
     name: 'JacksonSLSMG',
     component: () => import('../views/database/soloist/jackson-slsmg/Main.vue')

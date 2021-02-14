@@ -2,7 +2,7 @@
   <div class="columns">
 
     <div class="column is-two-thirds">
-      <Title title="Jackson Soloist Pro" subtitle="1990-1995"/>
+      <Title title="Jackson Soloist Archtop Pro" subtitle="1990-1992"/>
       <Tags/>
       <Specs/>
       <CatalogueLinks/>
@@ -23,7 +23,7 @@ import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
 
 export default {
-  name: 'JacksonSoloistPro',
+  name: 'JacksonSoloistArchtopPro',
   components: {
     CatalogueLinks,
     Extras,
