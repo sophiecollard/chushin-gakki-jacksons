@@ -6,7 +6,6 @@
       <Tags/>
       <Overview/>
       <Specs/>
-      <Gallery/>
       <CatalogueLinks/>
     </div>
 
@@ -20,7 +19,6 @@
 <script>
 import CatalogueLinks from './CatalogueLinks.vue'
 import CatalogueShot from '../../../../components/CatalogueShot.vue'
-import Gallery from '../../../../components/Gallery.vue'
 import Overview from './Overview.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
@@ -31,7 +29,6 @@ export default {
   components: {
     CatalogueLinks,
     CatalogueShot,
-    Gallery,
     Overview,
     Specs,
     Tags,
