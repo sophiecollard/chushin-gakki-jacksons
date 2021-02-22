@@ -11,7 +11,7 @@
     </div>
 
     <div class="column is-one-third">
-      <Extras catalogueShot="/database/rhoads/grover-jackson-dan-spitz.png"/>
+      <CatalogueShot catalogueShot="/database/rhoads/grover-jackson-dan-spitz.png"/>
     </div>
 
   </div>  
@@ -19,7 +19,7 @@
 
 <script>
 import CatalogueLinks from './CatalogueLinks.vue'
-import Extras from '../../../../components/Extras.vue'
+import CatalogueShot from '../../../../components/CatalogueShot.vue'
 import Gallery from '../../../../components/Gallery.vue'
 import Overview from './Overview.vue'
 import Specs from './Specs.vue'
@@ -30,7 +30,7 @@ export default {
   name: 'GroverJacksonDanSpitz',
   components: {
     CatalogueLinks,
-    Extras,
+    CatalogueShot,
     Gallery,
     Overview,
     Specs,

@@ -9,8 +9,8 @@
     </div>
 
     <div class="column is-one-third">
-      <Extras catalogueShot="/database/rhoads/jackson-rr24-black-yellow.jpg"/>
-      <Extras catalogueShot="/database/rhoads/jackson-rr24-limited-edition.png"/>
+      <CatalogueShot catalogueShot="/database/rhoads/jackson-rr24-black-yellow.jpg"/>
+      <CatalogueShot catalogueShot="/database/rhoads/jackson-rr24-limited-edition.png"/>
     </div>
 
   </div>  
@@ -18,7 +18,7 @@
 
 <script>
 import CatalogueLinks from './CatalogueLinks.vue'
-import Extras from '../../../../components/Extras.vue'
+import CatalogueShot from '../../../../components/CatalogueShot.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
@@ -27,7 +27,7 @@ export default {
   name: 'JacksonRR24',
   components: {
     CatalogueLinks,
-    Extras,
+    CatalogueShot,
     Specs,
     Tags,
     Title

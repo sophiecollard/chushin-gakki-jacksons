@@ -10,7 +10,7 @@
     </div>
 
     <div class="column is-one-third">
-      <Extras catalogueShot="/database/soloist/jackson-slsmg-satin-black.jpg"/>
+      <CatalogueShot catalogueShot="/database/soloist/jackson-slsmg-satin-black.jpg"/>
     </div>
 
   </div>  
@@ -18,7 +18,7 @@
 
 <script>
 import CatalogueLinks from './CatalogueLinks.vue'
-import Extras from '../../../../components/Extras.vue'
+import CatalogueShot from '../../../../components/CatalogueShot.vue'
 import Gallery from '../../../../components/Gallery.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
@@ -28,7 +28,7 @@ export default {
   name: 'JacksonSLSMG',
   components: {
     CatalogueLinks,
-    Extras,
+    CatalogueShot,
     Gallery,
     Specs,
     Tags,
