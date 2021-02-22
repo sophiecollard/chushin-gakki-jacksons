@@ -1,5 +1,5 @@
 <template>
-  <section class="hero is-link">
+  <section class="hero is-dark">
     <!-- title -->
     <div class="hero-body">
       <p class="title">
