@@ -10,7 +10,7 @@
       </p>
     </div>
     <!-- menu -->
-    <div class="hero-footer">
+    <!-- <div class="hero-footer">
       <div class="tabs">
         <ul>
           <li class="is-active"><a>Model Database</a></li>
@@ -18,7 +18,7 @@
           <li><a>Reviews</a></li>
         </ul>
       </div>
-    </div>
+    </div> -->
   </section>
 </template>
 
