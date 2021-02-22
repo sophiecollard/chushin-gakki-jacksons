@@ -9,8 +9,14 @@
     </div>
 
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/rhoads/jackson-rr24-black-yellow.jpg"/>
-      <CatalogueShot catalogueShot="/database/rhoads/jackson-rr24-limited-edition.png"/>
+      <CatalogueShot
+        catalogueShot="/database/rhoads/jackson-rr24-gold-black.jpg"
+        caption="2009 Limited Edition in Gold with Black Bevels"
+        />
+      <CatalogueShot
+        catalogueShot="/database/rhoads/jackson-rr24-limited-edition.png"
+        caption="2006 Limited Edition with ivory binding and reverse sharkfin inlays"
+        />
     </div>
 
   </div>  
