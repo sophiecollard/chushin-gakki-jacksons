@@ -44,6 +44,26 @@ const routes = [
     component: () => import('../views/database/rhoads/jackson-rr-pro/Main.vue')
   },
   {
+    path: '/db/rr/jackson-kevin-bond',
+    name: 'JacksonKevinBond',
+    component: () => import('../views/database/rhoads/jackson-kevin-bond/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-rr24',
+    name: 'JacksonRR24',
+    component: () => import('../views/database/rhoads/jackson-rr24/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-rr24m',
+    name: 'JacksonRR24M',
+    component: () => import('../views/database/rhoads/jackson-rr24m/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-matt-tuck',
+    name: 'JacksonMattTuck',
+    component: () => import('../views/database/rhoads/jackson-matt-tuck/Main.vue')
+  },
+  {
     path: '/db/rr/grover-jackson-rr-professional',
     name: 'GroverJacksonRRProfessional',
     component: () => import('../views/database/rhoads/grover-jackson-rr-professional/Main.vue')    
@@ -94,24 +114,9 @@ const routes = [
     component: () => import('../views/database/rhoads/jackson-stars-rr-tn01/Main.vue')
   },
   {
-    path: '/db/rr/jackson-kevin-bond',
-    name: 'JacksonKevinBond',
-    component: () => import('../views/database/rhoads/jackson-kevin-bond/Main.vue')
-  },
-  {
-    path: '/db/rr/jackson-rr24',
-    name: 'JacksonRR24',
-    component: () => import('../views/database/rhoads/jackson-rr24/Main.vue')
-  },
-  {
-    path: '/db/rr/jackson-rr24m',
-    name: 'JacksonRR24M',
-    component: () => import('../views/database/rhoads/jackson-rr24m/Main.vue')
-  },
-  {
-    path: '/db/rr/jackson-matt-tuck',
-    name: 'JacksonMattTuck',
-    component: () => import('../views/database/rhoads/jackson-matt-tuck/Main.vue')
+    path: '/db/rr/jackson-stars-rr-tn02',
+    name: 'JacksonStarsRRTN02',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02/Main.vue')
   }
 ]
 

@@ -16,6 +16,10 @@
         <a v-on:click=toggleRhoadsSection>Rhoads</a>
         <ul v-show=rhoadsSectionExpanded>
           <li><router-link to="/db/rr/jackson-rr-pro">Jackson RR Pro</router-link></li>
+          <li><router-link to="/db/rr/jackson-kevin-bond">Jackson Kevin Bond Signature Rhoads</router-link></li>
+          <li><router-link to="/db/rr/jackson-rr24">Jackson RR24</router-link></li>
+          <li><router-link to="/db/rr/jackson-rr24m">Jackson RR24M</router-link></li>
+          <li><router-link to="/db/rr/jackson-matt-tuck">Jackson Matt Tuck Signature Rhoads</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-professional">Grover Jackson RR Standard/Professional</router-link></li>
           <li><router-link class="is-active" to="/db/rr/grover-jackson-rr-custom">Grover Jackson RR Custom</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-dan-spitz">Grover Jackson Dan Spitz Professional</router-link></li>
@@ -26,10 +30,7 @@
           <li><router-link to="/db/rr/jackson-stars-rr-j2">Jackson Stars RR-J2</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-j2sp">Jackson Stars RR-J2SP</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn01">Jackson Stars RR-TN01</router-link></li>
-          <li><router-link to="/db/rr/jackson-kevin-bond">Jackson Kevin Bond Signature Rhoads</router-link></li>
-          <li><router-link to="/db/rr/jackson-rr24">Jackson RR24</router-link></li>
-          <li><router-link to="/db/rr/jackson-rr24m">Jackson RR24M</router-link></li>
-          <li><router-link to="/db/rr/jackson-matt-tuck">Jackson Matt Tuck Signature Rhoads</router-link></li>
+          <li><router-link to="/db/rr/jackson-stars-rr-tn02">Jackson Stars RR-TN02</router-link></li>
         </ul>
       </li>
       <li>

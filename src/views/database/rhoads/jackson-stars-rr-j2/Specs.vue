@@ -6,7 +6,7 @@
     <p><strong>Number of frets:</strong> 24</p>
     <p><strong>Body:</strong> Alder</p>
     <p><strong>Neck:</strong> Maple</p>
-    <p><strong>Fingerboard:</strong> Striped Ebony</p>
+    <p><strong>Fingerboard:</strong> Striped Ebony or Rosewood</p>
     <p><strong>Inlays:</strong> Pearloid Sharkfins</p>
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> <i>RR-J2/J2L/J2K/J2B:</i> Seymour Duncan SH-1n (neck), TB-5/SH-5 (bridge)</p>
@@ -14,7 +14,7 @@
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong> <i>RR-J2/J2L/J2E:</i> Schaller double locking tremolo</p>
     <p><strong style="color: white;">Bridge:</strong> <i>RR-J2K/J2EK:</i> Kahler</p>
-    <p><strong style="color: white;">Bridge:</strong> <i>RR-J2B/J2BE:</i> Gotoh tune-o-matic with string-through-body</p>
+    <p><strong style="color: white;">Bridge:</strong> <i>RR-J2B/J2BE:</i> Tune-o-matic Gotoh bridge with string-through-body</p>
     <p><strong>Bridge Mount:</strong> <i>RR-J2/J2L/J2E:</i> Recessed</p>
     <p>
       <strong>Finishes:</strong>

@@ -4,7 +4,7 @@
     <p><strong>Construction:</strong> Neck-through</p>
     <p><strong>Scale:</strong> 25.5" (648 mm)</p>
     <p><strong>Number of frets:</strong> 24</p>
-    <p><strong>Body:</strong> Ash with 5A Flame Maple Veneer on see-through finishes</p>
+    <p><strong>Body:</strong> Ash, with 5A flame maple veneer on transparent finishes</p>
     <p><strong>Neck:</strong> Maple</p>
     <p><strong>Fingerboard:</strong> Ebony</p>
     <p><strong>Inlays:</strong> Mother of Pearl Sharkfins</p>
@@ -14,15 +14,15 @@
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong> <i>RR-J1/J1E:</i> Floyd Rose Original</p>
     <p><strong style="color: white;">Bridge:</strong> <i>RR-J1K/J1EK:</i> Kahler</p>
-    <p><strong style="color: white;">Bridge:</strong> <i>RR-J1B/J1BE:</i> Tune-o-matic with string-through-body</p>
+    <p><strong style="color: white;">Bridge:</strong> <i>RR-J1B/J1BE:</i> Tune-o-matic Gotoh bridge with string-through-body</p>
     <p><strong>Bridge Mount:</strong> <i>RR-J1/J1E:</i> Recessed</p>
     <p>
       <strong>Finishes:</strong>
       BK (Black),
-      TBKS (See-through Black),
-      TSWS (See-through Snow White),
-      TRS (See-through Red),
-      TBLS (See-through Blue)
+      TBKS (Transparent Black),
+      TSWS (Transparent Snow White),
+      TRS (Transparent Red),
+      TBLS (Transparent Blue)
     </p>
     <p><strong>Hardware:</strong> Black</p>
     <p><strong>Price:</strong> <i>As per 2005 catalogue, with hard case:</i></p>
