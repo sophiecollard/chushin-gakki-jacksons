@@ -32,8 +32,8 @@
           <li><router-link to="/db/rr/jackson-stars-rr-tn01">Jackson Stars RR-TN01</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn02">Jackson Stars RR-TN02</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-swirl">Jackson Stars RR-TN02STB LTD "Swirl" (Limited Edition)</router-link></li>
-          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-ash">Jackson Stars RR-TN02STB LTD Ash (Limited Edition)</router-link></li>
-          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-wal">Jackson Stars RR-TN02STB LTD Wal (Limited Edition)</router-link></li>
+          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-ash">Jackson Stars RR-TN02STB ASH (Limited Edition)</router-link></li>
+          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-wal">Jackson Stars RR-TN02STB WAL (Limited Edition)</router-link></li>
         </ul>
       </li>
       <!-- <li>
