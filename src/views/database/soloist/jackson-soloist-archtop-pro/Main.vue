@@ -9,8 +9,14 @@
     </div>
 
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/soloist/jackson-soloist-archtop-pro-trem.png"/>
-      <CatalogueShot catalogueShot="/database/soloist/jackson-soloist-archtop-pro-ht.png"/>
+      <CatalogueShot
+        catalogueShot="/database/soloist/jackson-soloist-archtop-pro-trem.png"
+        caption="Trem version in Transparent Blue"
+        />
+      <CatalogueShot
+        catalogueShot="/database/soloist/jackson-soloist-archtop-pro-ht.png"
+        caption="Hardtail version, in Transparent Amber"
+        />
     </div>
 
   </div>  
