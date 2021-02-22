@@ -2,7 +2,7 @@
   <div class="columns">
   
     <div class="column is-two-thirds">
-      <Title title="Jackson Stars RR-TN02" subtitle="2008"/>
+      <Title title="Jackson Stars RR-TN02" subtitle="2008-2009"/>
       <Tags/>
       <Specs/>
     </div>

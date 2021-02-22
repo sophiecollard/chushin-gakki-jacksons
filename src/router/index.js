@@ -117,6 +117,21 @@ const routes = [
     path: '/db/rr/jackson-stars-rr-tn02',
     name: 'JacksonStarsRRTN02',
     component: () => import('../views/database/rhoads/jackson-stars-rr-tn02/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-stars-rr-tn02stb-swirl',
+    name: 'JacksonStarsRRTN02STBSwirl',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-swirl/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-stars-rr-tn02stb-ash',
+    name: 'JacksonStarsRRTN02STBAsh',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-ash/Main.vue')
+  },
+  {
+    path: '/db/rr/jackson-stars-rr-tn02stb-wal',
+    name: 'JacksonStarsRRTN02STBWal',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-wal/Main.vue')
   }
 ]
 
