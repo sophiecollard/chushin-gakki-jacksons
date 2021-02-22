@@ -21,7 +21,7 @@
           <li><router-link to="/db/rr/jackson-rr24m">Jackson RR24M</router-link></li>
           <li><router-link to="/db/rr/jackson-matt-tuck">Jackson Matt Tuck Signature Rhoads</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-professional">Grover Jackson RR Standard/Professional</router-link></li>
-          <li><router-link class="is-active" to="/db/rr/grover-jackson-rr-custom">Grover Jackson RR Custom</router-link></li>
+          <li><router-link to="/db/rr/grover-jackson-rr-custom">Grover Jackson RR Custom</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-dan-spitz">Grover Jackson Dan Spitz Professional</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-i195">Grover Jackson RR .I-195</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-i170">Grover Jackson RR .I-170</router-link></li>
@@ -33,26 +33,26 @@
           <li><router-link to="/db/rr/jackson-stars-rr-tn02">Jackson Stars RR-TN02</router-link></li>
         </ul>
       </li>
-      <li>
+      <!-- <li>
         <a v-on:click=toggleKingVSection>King V</a>
         <ul v-show=kingVSectionExpanded>
           <li><a>Jackson King V Professional</a></li>
           <li><a>Grover Jackson King V Custom</a></li>
           <li><a>Grover Jackson Dave Mustaine Professional</a></li>
         </ul>
-      </li>
-      <li>
+      </li> -->
+      <!-- <li>
         <a v-on:click=toggleKellySection>Kelly</a>
         <ul v-show=kellySectionExpanded>
           <li><a>Grover Jackson Kelly Custom</a></li>
         </ul>
-      </li>
-      <li>
+      </li> -->
+      <!-- <li>
         <a v-on:click=toggleWarriorSection>Warrior</a>
         <ul v-show=warriorSectionExpanded>
           <li><a>Jackson Warrior Professional</a></li>
         </ul>
-      </li>
+      </li> -->
     </ul>
     <p class="menu-label" v-show=catalogueScansMenuShown>Catalogue Scans</p>
     <ul class="menu-list" v-show=catalogueScansMenuShown>
