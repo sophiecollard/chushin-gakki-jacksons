@@ -16,9 +16,9 @@
     <p><strong>Bridge Mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> Black, Black with Yellow Bevels, Black with Gold Pinstripes</p>
     <p><strong>Hardware:</strong> Gold</p>
-    <p><strong>Price:</strong> <i>Black:</i> &#165;165,000 (with gig bag)</p>
-    <p><strong style="color: white;">Price:</strong> <i>Black with Yellow Bevels:</i> &#165;215,000 (with gig bag)</p>
-    <p><strong style="color: white;">Price:</strong> <i>Black with Gold Pinstripes:</i> &#165;215,000 (with gig bag)</p>
+    <p><strong>Price:</strong> <i>Black:</i> &#165;165,000 (with soft case)</p>
+    <p><strong style="color: white;">Price:</strong> <i>Black with Yellow Bevels:</i> &#165;215,000 (with soft case)</p>
+    <p><strong style="color: white;">Price:</strong> <i>Black with Gold Pinstripes:</i> &#165;215,000 (with soft case)</p>
   </div>
 </template>
 

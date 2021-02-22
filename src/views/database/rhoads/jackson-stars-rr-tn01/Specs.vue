@@ -18,9 +18,9 @@
     <p><strong>Finishes:</strong> Black</p>
     <p><strong>Hardware:</strong> <i>RR-TN01/RR-TN01EMG:</i> Black</p>
     <p><strong style="color: white;">Hardware:</strong> <i>RR-TN01STB:</i> Gold</p>
-    <p><strong>Price:</strong> <i>RR-TN01</i> &#165;273,000 (with hard case)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-TN01EMG</i> &#165;278,250 (with hard case)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-TN01STB</i> &#165;252,000 (with hard case)</p>
+    <p><strong>Price:</strong> <i>RR-TN01:</i> &#165;273,000 (with hard case)</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-TN01EMG:</i> &#165;278,250 (with hard case)</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-TN01STB:</i> &#165;252,000 (with hard case)</p>
   </div>
 </template>
 

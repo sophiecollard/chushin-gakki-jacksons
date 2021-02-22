@@ -18,12 +18,13 @@
     <p><strong>Bridge Mount:</strong> <i>RR-J1/RR-J1E:</i> Recessed</p>
     <p><strong>Finishes:</strong> BK (Black), TBKS (See-through Black), TSWS (See-through Snow White), TRS (See-through Red), TBLS (See-through Blue)</p>
     <p><strong>Hardware:</strong> Black</p>
-    <p><strong>Price:</strong> <i>RR-J1</i> &#165;220,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J1E</i> &#165;225,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J1K</i> &#165;240,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J1EK</i> &#165;245,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J1B</i> &#165;170,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J1BE</i> &#165;175,000 (as per 2005 catalogue)</p>
+    <p><strong>Price:</strong> <i>As per 2005 catalogue, with hard case:</i></p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1:</i> &#165;220,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1E:</i> &#165;225,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1K:</i> &#165;240,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1EK:</i> &#165;245,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1B:</i> &#165;170,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J1BE:</i> &#165;175,000</p>
   </div>
 </template>
 

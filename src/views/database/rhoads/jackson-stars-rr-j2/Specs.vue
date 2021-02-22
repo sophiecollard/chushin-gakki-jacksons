@@ -53,13 +53,14 @@
       LTG (Lightning Sky)
     </p>
     <p><strong>Hardware:</strong> Black</p>
-    <p><strong>Price:</strong> <i>RR-J2</i> &#165;168,000 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2L</i> &#165;201,600 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2E</i> &#165;173,250 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2K</i> &#165;199,500 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2EK</i> &#165;204,750 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2B</i> &#165;136,500 (as per 2005 catalogue)</p>
-    <p><strong style="color: white;">Price:</strong> <i>RR-J2BE</i> &#165;141,750 (as per 2005 catalogue)</p>
+    <p><strong>Price:</strong> <i>As per 2005 catalogue, with soft case:</i></p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2:</i> &#165;168,000</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2L:</i> &#165;201,600</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2E:</i> &#165;173,250</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2K:</i> &#165;199,500</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2EK:</i> &#165;204,750</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2B:</i> &#165;136,500</p>
+    <p><strong style="color: white;">Price:</strong> <i>RR-J2BE:</i> &#165;141,750</p>
   </div>
 </template>
 
