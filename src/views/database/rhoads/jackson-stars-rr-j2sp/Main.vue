@@ -10,7 +10,7 @@
     </div>
 
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/jackson-stars-rrj2sp.jpg"/>
+      <CatalogueShot catalogueShot="/database/rhoads/jackson-stars-rrj2sp.jpg"/>
     </div>
 
   </div>  

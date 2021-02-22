@@ -11,7 +11,10 @@
     </div>
 
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/jackson-stars-rr-j1.png"/>
+      <CatalogueShot
+        catalogueShot="/database/rhoads/jackson-stars-rr-j1be.png"
+        caption="RR-J1BE in TRS (Transparent Red)"
+        />
     </div>
 
   </div>  

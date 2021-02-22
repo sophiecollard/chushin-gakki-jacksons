@@ -8,7 +8,7 @@
     </div>
 
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/jackson-stars-rr-tn01stb.jpg"/>
+      <CatalogueShot catalogueShot="/database/rhoads/jackson-stars-rr-tn01stb.jpg"/>
     </div>
 
   </div>  

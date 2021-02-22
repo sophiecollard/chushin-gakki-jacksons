@@ -9,7 +9,7 @@
     </div>
   
     <div class="column is-one-third">
-      <CatalogueShot catalogueShot="/database/jackson-matt-tuck-sparkle.png"/>
+      <CatalogueShot catalogueShot="/database/rhoads/jackson-matt-tuck-sparkle.png"/>
     </div>
 
   </div>  
