@@ -1,8 +1,28 @@
 <template>
   <div class="block">
-    <span class="tag is-link">Early 90s</span>
-    <span class="tag is-danger">Japanese Market Exclusive</span>
-    <span class="tag is-link">MOP Inlays</span>
+    <div class="field is-grouped is-grouped-multiline">
+
+      <div class="control">
+        <div class="tags has-addons">
+          <span class="tag is-dark">Era</span>
+          <span class="tag is-link">Early 90s</span>
+        </div>
+      </div>
+
+      <div class="control">
+        <div class="tags has-addons">
+          <span class="tag is-dark">Availability</span>
+          <span class="tag is-danger">Japan Only</span>
+        </div>
+      </div>
+
+      <div class="control">
+        <div class="tags">
+          <span class="tag is-dark">MOP Inlays</span>
+        </div>
+      </div>
+      
+    </div>
   </div>
 </template>
 

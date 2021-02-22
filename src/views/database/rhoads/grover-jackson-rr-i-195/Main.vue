@@ -2,7 +2,7 @@
   <div class="columns">
   
     <div class="column is-two-thirds">
-      <Title title="Grover Jackson RR .I-195"/>
+      <Title title="Grover Jackson RR .I-195" subtitle="1995-2000"/>
       <Tags/>
       <Specs/>
       <CatalogueLinks/>
