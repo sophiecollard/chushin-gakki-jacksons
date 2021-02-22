@@ -79,6 +79,11 @@ const routes = [
     component: () => import('../views/database/rhoads/jackson-stars-rr-j1/Main.vue')
   },
   {
+    path: '/db/rr/jackson-stars-rr-j2',
+    name: 'JacksonStarsRRJ2',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-j2/Main.vue')
+  },
+  {
     path: '/db/rr/jackson-stars-rr-j2sp',
     name: 'JacksonStarsRRJ2SP',
     component: () => import('../views/database/rhoads/jackson-stars-rr-j2sp/Main.vue')

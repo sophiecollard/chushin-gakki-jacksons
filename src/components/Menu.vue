@@ -23,6 +23,7 @@
           <li><router-link to="/db/rr/grover-jackson-rr-i170">Grover Jackson RR .I-170</router-link></li>
           <li><router-link to="/db/rr/grover-jackson-rr-s350">Grover Jackson RR .S-350</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-j1">Jackson Stars RR-J1</router-link></li>
+          <li><router-link to="/db/rr/jackson-stars-rr-j2">Jackson Stars RR-J2</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-j2sp">Jackson Stars RR-J2SP</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn01">Jackson Stars RR-TN01</router-link></li>
           <li><router-link to="/db/rr/jackson-kevin-bond">Jackson Kevin Bond Signature Rhoads</router-link></li>
