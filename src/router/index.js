@@ -49,6 +49,11 @@ const routes = [
     component: () => import('../views/database/rhoads/jackson-rr5/Main.vue')
   },
   {
+    path: '/db/rr/jackson-rr5fr',
+    name: 'JacksonRR5FR',
+    component: () => import('../views/database/rhoads/jackson-rr5fr/Main.vue')
+  },
+  {
     path: '/db/rr/jackson-kevin-bond',
     name: 'JacksonKevinBond',
     component: () => import('../views/database/rhoads/jackson-kevin-bond/Main.vue')
