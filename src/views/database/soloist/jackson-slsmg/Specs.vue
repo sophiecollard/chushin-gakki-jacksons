@@ -13,10 +13,9 @@
     <p><strong style="color: white;">Pickups:</strong> <i>2006-2011:</i> EMG-85 (neck), EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume, 1x Tone, 3-Way Switch</p>
     <p><strong>Bridge:</strong> JT390 with string-through-body</p>
-    <p><strong>Finishes:</strong> <i>2002-2005:</i> Satin Black, Violin Brown</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>2006-2008:</i> Satin Black, Black, Inferno Red</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>2009-2011:</i> Satin Black, Black, Snow White, Green Swirl (2009 limited edition)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>Other limited edition finishes:</i> Eerie Dess Swirl, See-through Red (with Flame Maple Veneer), See-through Black (with Flame Maple Veneer)</p>
+    <p><strong>Finishes:</strong> <i>Solid:</i> Satin Black (2002-2011), Black (2006-2011), Inferno Red (2006-2008), Snow White (2009-2011)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Transparent:</i> Violin Brown (2003-2005), Transparent Red (with Flame Maple Veneer), Transparent Black (with Flame Maple Veneer)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Graphic:</i> Eerie Dess Swirl, Green Swirl (2009)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>
