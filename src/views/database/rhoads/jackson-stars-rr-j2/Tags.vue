@@ -5,7 +5,7 @@
       <div class="control">
         <div class="tags has-addons">
           <span class="tag is-dark">Era</span>
-          <span class="tag is-link">2000s</span>
+          <span class="tag is-link">Mid 2000s</span>
         </div>
       </div>
 
