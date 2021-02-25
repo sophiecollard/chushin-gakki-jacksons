@@ -15,7 +15,7 @@
     <p><strong>Bridge:</strong> JT390 with string-through-body</p>
     <p><strong>Finishes:</strong> <i>Solid:</i> Satin Black (2002-2011), Black (2006-2011), Inferno Red (2006-2008), Snow White (2009-2011)</p>
     <p><strong style="color: white;">Finishes:</strong> <i>Transparent:</i> Violin Brown (2003-2005), Transparent Red (with Flame Maple Veneer), Transparent Black (with Flame Maple Veneer)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>Graphic:</i> Eerie Dess Swirl, Green Swirl (2009)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Graphics:</i> Eerie Dess Swirl, Green Swirl (2009)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>

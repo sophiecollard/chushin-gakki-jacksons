@@ -13,7 +13,9 @@
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
-    <p><strong>Finishes:</strong> Black (2008-2010), Ivory with Black Pinstripes(2008-2010), Metallic Pink with Silver Bevels (2008-2009), Black with White Bullseye (2008), Transparent Red (2008)</p>
+    <p><strong>Finishes:</strong> <i>Solid:</i> Black (2008-2010)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Transparent:</i> Transparent Red (2008)</p>
+    <p><strong style="color: white;">Finishes:</strong> <i>Graphics:</i> Ivory with Black Pinstripes(2008-2010), Metallic Pink with Silver Bevels (2008-2009), White with Black Bullseye (2008)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>
