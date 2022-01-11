@@ -9,10 +9,10 @@
     <p><strong>Fingerboard:</strong> Ebony</p>
     <p><strong>Inlays:</strong></p>
     <p><i>2006 Limited Edition:</i> Pearloid Reverse Sharkfins</p>
-    <p><i>Later Model:</i> Pearloid Sharkfins</p>
+    <p><i>Standard Model:</i> Pearloid Sharkfins</p>
     <p><strong>Binding:</strong></p>
     <p><i>2006 Limited Edition:</i> Ivory</p>
-    <p><i>Later Model:</i> Black</p>
+    <p><i>Standard Model:</i> Black</p>
     <p><strong>Pickups:</strong> EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume</p>
     <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
@@ -20,7 +20,7 @@
     <p><strong>Finishes:</strong></p>
     <p><i>2006 Limited Edition:</i> Black with Yellow Bevels</p>
     <p><i>2009 Limited Edition:</i> Gold with Black Bevels</p>
-    <p><i>Later Model:</i> Snow White with Black Bevels, Black with Yellow Bevels, Black with Red Bevels</p>
+    <p><i>Standard Model:</i> Snow White with Black Bevels, Black with Yellow Bevels, Black with Red Bevels</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>
