@@ -14,7 +14,7 @@
     <p><strong>Pickups:</strong> EMG-81 (neck), EMG-85 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume, 3-Way Toggle Switch</p>
     <p><strong>Tuners:</strong> Grover Jackson SG38-06</p>
-    <p><strong>Bridge:</strong> Jackson-branded Schaller double locking tremolo</p>
+    <p><strong>Bridge:</strong> Jackson-branded Schaller tremolo</p>
     <p><strong>Bridge Mount:</strong> Non-recessed with full stretch cavity</p>
     <p><strong>Finishes:</strong> Black</p>
     <p><strong>Hardware:</strong> Gold</p>

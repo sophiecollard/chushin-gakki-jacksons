@@ -9,13 +9,15 @@
     <p><strong>Fingerboard:</strong> Ebony</p>
     <p><strong>Inlays:</strong> Pearloid Pirhana Tooth</p>
     <p><strong>Binding:</strong> Ivory</p>
-    <p><strong>Pickups:</strong> <i>2002-2005:</i> EMG HZ (neck and bridge)</p>
-    <p><strong style="color: white;">Pickups:</strong> <i>2006-2011:</i> EMG-85 (neck), EMG-81 (bridge)</p>
+    <p><strong>Pickups:</strong></p>
+    <p><i>2002-2005:</i> EMG HZ (neck and bridge)</p>
+    <p><i>2006-2011:</i> EMG-85 (neck), EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume, 1x Tone, 3-Way Switch</p>
     <p><strong>Bridge:</strong> JT390 with string-through-body</p>
-    <p><strong>Finishes:</strong> <i>Solid:</i> Satin Black (2002-2011), Black (2006-2011), Inferno Red (2006-2008), Snow White (2009-2011)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>Transparent:</i> Violin Brown (2003-2005), Transparent Red (with Flame Maple Veneer), Transparent Black (with Flame Maple Veneer)</p>
-    <p><strong style="color: white;">Finishes:</strong> <i>Graphics:</i> Eerie Dess Swirl, Green Swirl (2009)</p>
+    <p><strong>Finishes:</strong></p>
+    <p><i>Solid:</i> Satin Black (2002-2011), Black (2006-2011), Inferno Red (2006-2008), Snow White (2009-2011)</p>
+    <p><i>Transparent:</i> Violin Brown (2003-2005), Transparent Red (with Flame Maple Veneer), Transparent Black (with Flame Maple Veneer)</p>
+    <p><i>Graphics:</i> Eerie Dess Swirl, Green Swirl (2009)</p>
     <p><strong>Hardware:</strong> Black</p>
   </div>
 </template>

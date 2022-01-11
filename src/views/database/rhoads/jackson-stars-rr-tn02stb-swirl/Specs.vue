@@ -11,7 +11,7 @@
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> Seymour Duncan SH-1n (neck), SH-4 (bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
-    <p><strong>Bridge:</strong> Tune-o-matic Gotoh bridge with string-through-body</p>
+    <p><strong>Bridge:</strong> Gotoh tune-o-matic bridge with string-through-body</p>
     <p><strong>Finishes:</strong> BS (Blue Swirl), CS (Crimson Swirl)</p>
     <p><strong>Hardware:</strong> Chrome</p>
     <p><strong>Price:</strong> &#165;168,000 (with soft case)</p>

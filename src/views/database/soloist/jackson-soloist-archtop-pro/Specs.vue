@@ -11,8 +11,9 @@
     <p><strong>Binding:</strong> Ivory</p>
     <p><strong>Pickups:</strong> J-80C (neck and bridge)</p>
     <p><strong>Controls:</strong> 1x Volume, 1x Tone, 3-Way Toggle Switch</p>
-    <p><strong>Bridge:</strong> <i>Trem version:</i> Jackson-branded Schaller (JT-590) double locking tremolo</p>
-    <p><strong style="color: white;">Bridge:</strong> <i>Hardtail version:</i> Tune-o-matic with string-through-body</p>
+    <p><strong>Bridge:</strong></p>
+    <p><i>Trem version:</i> JT-590 (Jackson-branded Schaller tremolo)</p>
+    <p><i>Hardtail version:</i> Tune-o-matic with string-through-body</p>
     <p><strong>Bridge Mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> Transparent Amber, Transparent Red, Transparent Blue, Cherry Sunburst</p>
     <p><strong>Hardware:</strong> Black</p>

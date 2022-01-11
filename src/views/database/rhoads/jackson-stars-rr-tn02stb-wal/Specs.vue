@@ -11,7 +11,7 @@
     <p><strong>Binding:</strong> None</p>
     <p><strong>Pickups:</strong> Seymour Duncan SH-2 (neck), SH-5 (bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
-    <p><strong>Bridge:</strong> Tune-o-matic Gotoh bridge with string-through-body</p>
+    <p><strong>Bridge:</strong> Gotoh tune-o-matic bridge with string-through-body</p>
     <p><strong>Finishes:</strong> Natural</p>
     <p><strong>Hardware:</strong> Gold</p>
     <p><strong>Price:</strong> &#165;199,500 (with soft case)</p>
