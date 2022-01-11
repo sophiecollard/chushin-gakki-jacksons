@@ -6,7 +6,7 @@
         Chushin Gakki Jacksons &#38; Charvels
       </p>
       <p class="subtitle">
-        Japanese-made Jackson and Charvel guitars from the early 90s to the late 2000s
+        Japanese-made Jackson and Charvel guitars from the 90s and 2000s
       </p>
     </div>
     <!-- menu -->
