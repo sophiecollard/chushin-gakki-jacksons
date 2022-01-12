@@ -4,7 +4,7 @@
     <div class="column is-two-thirds">
       <Title title="Jackson Stars RR-J1" subtitle="2004-2006"/>
       <Tags/>
-      <Overview/>
+      <Intro/>
       <Specs/>
       <Gallery/>
       <CatalogueLinks/>
@@ -23,7 +23,7 @@
 <script>
 import CatalogueLinks from './CatalogueLinks.vue'
 import CatalogueShot from '../../../../components/CatalogueShot.vue'
-import Overview from './Overview.vue'
+import Intro from './Intro.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
@@ -33,7 +33,7 @@ export default {
   components: {
     CatalogueLinks,
     CatalogueShot,
-    Overview,
+    Intro,
     Specs,
     Tags,
     Title

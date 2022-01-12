@@ -1,14 +1,14 @@
 <template>
   <div class="block">
-    <h2 class="title is-4">Overview</h2>
     <p>
       The unofficial Alexi Laiho signature.
+      Unlike other models in the J2 series, this one features genuine mother of pearl inlays.
     </p>
   </div>
 </template>
 
 <script>
 export default {
-  name: 'Overview'
+  name: 'Intro'
 }
 </script>
