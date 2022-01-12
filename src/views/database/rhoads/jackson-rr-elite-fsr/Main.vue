@@ -6,6 +6,7 @@
       <Tags/>
       <Intro/>
       <Specs/>
+      <ExternalResources/>
       <CatalogueLinks/>
     </div>
 
@@ -19,6 +20,7 @@
 <script>
 import CatalogueShot from '../../../../components/CatalogueShot.vue'
 import Intro from './Intro.vue'
+import ExternalResources from './ExternalResources.vue'
 import Specs from './Specs.vue'
 import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
@@ -28,6 +30,7 @@ export default {
   components: {
     CatalogueShot,
     Intro,
+    ExternalResources,
     Specs,
     Tags,
     Title
