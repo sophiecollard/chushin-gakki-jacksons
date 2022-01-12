@@ -8,7 +8,7 @@
     <br/>
     <p>
       The RR24 was first released in late 2006 as a limited edition.
-      It featured a black finish with yellow bevels and logo, a cream neck binding and reverse sharkfin inlays.
+      It featured a black finish with yellow bevels and logo, an ivory neck binding and reverse sharkfin inlays.
       A standard version was later announced at NAMM 2007, available in three different finishes and featuring a black neck binding and regular sharkfin inlays.
     </p>
   </div>

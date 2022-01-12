@@ -15,7 +15,7 @@
       <li>
         <a v-on:click=toggleRhoadsSection>Rhoads</a>
         <ul v-show=rhoadsSectionExpanded>
-          <li><router-link to="/db/rr/jackson-rr-pro">Jackson RR Pro</router-link></li>
+          <li><router-link to="/db/rr/jackson-rr-pro">Jackson Rhoads Pro</router-link></li>
           <li><router-link to="/db/rr/jackson-rr24">Jackson RR24</router-link></li>
           <li><router-link to="/db/rr/jackson-rr24m">Jackson RR24M</router-link></li>
           <li><router-link to="/db/rr/jackson-rr5">Jackson RR5</router-link></li>
