@@ -4,7 +4,7 @@
       <div class="columns">
         <!-- menu -->
         <div class="column is-one-quarter">
-          <Menu activeMenu="database" activeSection="rhoads"/>
+          <Menu activeMenu="database" activeSection=""/>
         </div>
         <!-- core contents and extras -->
         <div class="column is-three-quarters">
