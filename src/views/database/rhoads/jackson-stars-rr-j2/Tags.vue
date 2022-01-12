@@ -18,8 +18,8 @@
 
       <div class="control">
         <div class="tags has-addons">
-          <span class="tag is-dark">Left-hand Version</span>
-          <span class="tag is-success">Yes (RR-J2L)</span>
+          <span class="tag is-dark">Left-hand version</span>
+          <span class="tag is-success">RR-J2L</span>
         </div>
       </div>
 
