@@ -11,7 +11,7 @@
     <p><strong>Binding:</strong> None</p>
     <p><strong>Pickups:</strong> Seymour Duncan SH-4 (neck &#38; bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
-    <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
+    <p><strong>Bridge:</strong> Floyd Rose FRT-O 2000</p>
     <p><strong>Bridge mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong></p>
     <p><i>Solid:</i> Black (2008-2010)</p>

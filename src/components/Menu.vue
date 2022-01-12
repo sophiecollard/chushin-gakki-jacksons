@@ -53,12 +53,13 @@
           <li><a>Grover Jackson Kelly Custom</a></li>
         </ul>
       </li> -->
-      <!-- <li>
+      <li>
         <a v-on:click=toggleWarriorSection>Warrior</a>
         <ul v-show=warriorSectionExpanded>
-          <li><a>Jackson Warrior Professional</a></li>
+          <li><router-link to="/db/wr/jackson-stars-wr-j2">Jackson Stars WR-J2</router-link></li>
+          <li><router-link to="/db/wr/jackson-stars-wr-tn02">Jackson Stars WR-TN02</router-link></li>
         </ul>
-      </li> -->
+      </li>
     </ul>
     <p class="menu-label" v-show=catalogueScansMenuShown>Catalogue Scans</p>
     <ul class="menu-list" v-show=catalogueScansMenuShown>

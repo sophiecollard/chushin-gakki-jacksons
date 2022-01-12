@@ -11,7 +11,7 @@
     <p><strong>Binding:</strong> Black</p>
     <p><strong>Pickups:</strong> EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume</p>
-    <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
+    <p><strong>Bridge:</strong> Floyd Rose FRT-O 2000</p>
     <p><strong>Bridge mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> Snow White with Black Bevels, Black with Snow White Bevels</p>
     <p><strong>Hardware:</strong> Black</p>

@@ -14,7 +14,7 @@
     <p><i>RR-TN02EMG/TN02STBEMG:</i> EMG-81 (neck and bridge)</p>
     <p><strong>Controls:</strong> 2x Volume, 1x Tone, 3-Way Toggle Switch</p>
     <p><strong>Bridge:</strong></p>
-    <p><i>RR-TN02/TN02EMG:</i> Floyd Rose Original</p>
+    <p><i>RR-TN02/TN02EMG:</i> Floyd Rose FRT-O 2000</p>
     <p><i>RR-TN02STB/TN02STBEMG:</i> Gotoh tune-o-matic bridge with string-through-body</p>
     <p><strong>Bridge mount:</strong> <i>RR-TN02/TN02EMG:</i> Recessed</p>
     <p><strong>Finishes:</strong></p>

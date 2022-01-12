@@ -147,6 +147,16 @@ const routes = [
     path: '/db/rr/jackson-stars-rr-tn02stb-wal',
     name: 'JacksonStarsRRTN02STBWal',
     component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-wal/Main.vue')
+  },
+  {
+    path: '/db/wr/jackson-stars-wr-j2',
+    name: 'JacksonStarsWRJ2',
+    component: () => import('../views/database/warrior/jackson-stars-wr-j2/Main.vue')
+  },
+  {
+    path: '/db/wr/jackson-stars-wr-tn02',
+    name: 'JacksonStarsWRTN02',
+    component: () => import('../views/database/warrior/jackson-stars-wr-tn02/Main.vue')
   }
 ]
 

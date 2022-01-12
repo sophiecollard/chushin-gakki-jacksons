@@ -12,7 +12,7 @@
     <p><strong>Pickup:</strong> EMG-H3</p>
     <p><strong>Active electronics:</strong> EMG-PA2 boost</p>
     <p><strong>Controls:</strong> 1x Volume, Switch for boost</p>
-    <p><strong>Bridge:</strong> Schaller double locking tremolo</p>
+    <p><strong>Bridge:</strong> Schaller tremolo</p>
     <p><strong>Bridge mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong> Black, Black with Yellow Bevels, Black with Gold Pinstripes</p>
     <p><strong>Hardware:</strong> Gold</p>

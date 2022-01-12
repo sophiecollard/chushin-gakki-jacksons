@@ -15,7 +15,7 @@
     <p><i>Standard Model:</i> Black</p>
     <p><strong>Pickups:</strong> EMG-81 (bridge)</p>
     <p><strong>Controls:</strong> 1x Volume</p>
-    <p><strong>Bridge:</strong> Floyd Rose FRT-O2000</p>
+    <p><strong>Bridge:</strong> Floyd Rose FRT-O 2000</p>
     <p><strong>Bridge mount:</strong> Recessed</p>
     <p><strong>Finishes:</strong></p>
     <p><i>2006 Limited Edition:</i> Black with Yellow Bevels</p>
