@@ -39,6 +39,11 @@ const routes = [
     component: () => import('../views/database/soloist/jackson-sls3/Main.vue')
   },
   {
+    path: '/db/rr/jackson-rr-elite-fsr',
+    name: 'JacksonRREliteFSR',
+    component: () => import('../views/database/rhoads/jackson-rr-elite-fsr/Main.vue')
+  },
+  {
     path: '/db/rr/jackson-rr-pro',
     name: 'JacksonRRPro',
     component: () => import('../views/database/rhoads/jackson-rr-pro/Main.vue')
