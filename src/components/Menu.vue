@@ -34,8 +34,8 @@
           <li><router-link to="/db/rr/jackson-stars-rr-j2sp">Jackson Stars RR-J2SP</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn01">Jackson Stars RR-TN01</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn02">Jackson Stars RR-TN02</router-link></li>
-          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-swirl">Jackson Stars RR-TN02STB LTD</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-ash">Jackson Stars RR-TN02STB ASH</router-link></li>
+          <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-swirl">Jackson Stars RR-TN02STB LTD</router-link></li>
           <li><router-link to="/db/rr/jackson-stars-rr-tn02stb-wal">Jackson Stars RR-TN02STB WAL</router-link></li>
         </ul>
       </li>

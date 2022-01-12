@@ -2,7 +2,7 @@
   <div class="block">
     <h2 class="title is-4">Specs</h2>
     <p><strong>Construction:</strong> Neck-through</p>
-    <p><strong>Scale:</strong> 25.5" (648 mm)</p>
+    <p><strong>Scale length:</strong> 25.5" (648 mm)</p>
     <p><strong>Number of frets:</strong> 24</p>
     <p><strong>Body:</strong> Alder</p>
     <p><strong>Neck:</strong> Maple</p>
@@ -17,7 +17,7 @@
     <p><i>RR-J2/J2L/J2E:</i> Schaller double locking tremolo</p>
     <p><i>RR-J2K/J2EK:</i> Kahler</p>
     <p><i>RR-J2B/J2BE:</i> Tune-o-matic Gotoh bridge with string-through-body</p>
-    <p><strong>Bridge Mount:</strong> <i>RR-J2/J2L/J2E:</i> Recessed</p>
+    <p><strong>Bridge mount:</strong> <i>RR-J2/J2L/J2E:</i> Recessed</p>
     <p><strong>Finishes:</strong></p>
     <p>
       <i>As per 2004 catalogue:</i>

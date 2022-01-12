@@ -2,7 +2,7 @@
   <div class="block">
     <h2 class="title is-4">Specs</h2>
     <p><strong>Construction:</strong> Neck-through</p>
-    <p><strong>Scale:</strong> 25.5" (648 mm)</p>
+    <p><strong>Scale length:</strong> 25.5" (648 mm)</p>
     <p><strong>Number of frets:</strong> 24</p>
     <p><strong>Body:</strong> Alder, with flame maple veneer on transparent finishes</p>
     <p><strong>Neck:</strong> Maple</p>
@@ -16,7 +16,7 @@
     <p><strong>Bridge:</strong></p>
     <p><i>RR-TN02/TN02EMG:</i> Floyd Rose Original</p>
     <p><i>RR-TN02STB/TN02STBEMG:</i> Gotoh tune-o-matic bridge with string-through-body</p>
-    <p><strong>Bridge Mount:</strong> <i>RR-TN02/TN02EMG:</i> Recessed</p>
+    <p><strong>Bridge mount:</strong> <i>RR-TN02/TN02EMG:</i> Recessed</p>
     <p><strong>Finishes:</strong></p>
     <p>
       <i>RR-TN02/TN02EMG:</i>
