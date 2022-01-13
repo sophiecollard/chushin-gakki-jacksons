@@ -14,14 +14,14 @@
         </router-link>
       </div>
       <!-- menu -->
-      <div class="hero-footer">
+      <!-- <div class="hero-footer">
         <div class="tabs">
           <ul>
             <li class="is-active"><router-link to="/">Home</router-link></li>
             <li><router-link to="/timeline">Timeline</router-link></li>
           </ul>
         </div>
-      </div>
+      </div> -->
 
     </div>
   </section>

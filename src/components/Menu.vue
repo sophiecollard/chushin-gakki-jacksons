@@ -1,5 +1,15 @@
 <template>
   <aside class="menu">
+    <p class="menu-label" v-show=databaseMenuShown>
+      <router-link to="/">
+        Home
+      </router-link>
+    </p>
+    <p class="menu-label" v-show=databaseMenuShown>
+      <router-link to="/timeline">
+        Timeline
+      </router-link>
+    </p>
     <p class="menu-label" v-show=databaseMenuShown>Model Database</p>
     <ul class="menu-list" v-show=databaseMenuShown>
       <li>
@@ -76,6 +86,15 @@
     </ul>
   </aside>  
 </template>
+
+<style>
+.menu-label a {
+  color: #7A7A7A;
+}
+.menu-label a:hover {
+  color: #363636;
+}
+</style>
 
 <script>
 export default {
