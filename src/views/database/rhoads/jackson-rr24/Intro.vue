@@ -2,7 +2,8 @@
   <div class="block">
     <p>
       Possibly the most popular Rhoads models ever.
-      Up until the release of the RR24 in late 2006, guitarists outside of Japan looking for a 24-frets Rhoads were left to choose between the entry-level JS30RR and a USA Custom Shop order.
+      Up until the release of the RR24 in late 2006, guitarists outside of Japan looking for a 24-frets Rhoads
+      were left to choose between entry-level models such as the JS30RR or PS3T and a USA Custom Shop order.
     </p>
     <br/>
     <p>
