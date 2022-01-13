@@ -100,7 +100,7 @@
 
     <br/>
 
-    <p><router-link to="/db/rr/jackson-stars-rr-tn02stb-swirl">Jackson Stars RR-TN02 STB LTD (2008 Limited Edition)</router-link></p>
+    <p><router-link to="/db/rr/jackson-stars-rr-tn02stb-ltd">Jackson Stars RR-TN02 STB LTD (2008 Limited Edition)</router-link></p>
     <p><router-link to="/db/rr/jackson-stars-rr-tn02stb-ash">Jackson Stars RR-TN02 STB ASH (2009 Limited Edition)</router-link></p>
     <p><router-link to="/db/rr/jackson-stars-rr-tn02stb-wal">Jackson Stars RR-TN02 STB WAL (2009 Limited Edition)</router-link></p>
 

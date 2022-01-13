@@ -2,7 +2,7 @@
   <div class="columns">
   
     <div class="column is-two-thirds">
-      <Title title="Jackson Stars RR-TN02STB LTD 'Swirl'" subtitle="2008"/>
+      <Title title="Jackson Stars RR-TN02STB LTD" subtitle="2008"/>
       <Tags/>
       <Specs/>
     </div>
@@ -24,7 +24,7 @@ import Tags from './Tags.vue'
 import Title from '../../../../components/Title.vue'
 
 export default {
-  name: 'JacksonStarsRRTN02STBSwirl',
+  name: 'JacksonStarsRRTN02STBLTD',
   components: {
     CatalogueShot,
     Specs,

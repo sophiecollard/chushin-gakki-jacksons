@@ -140,9 +140,9 @@ const routes = [
     component: () => import('../views/database/rhoads/jackson-stars-rr-tn02/Main.vue')
   },
   {
-    path: '/db/rr/jackson-stars-rr-tn02stb-swirl',
-    name: 'JacksonStarsRRTN02STBSwirl',
-    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-swirl/Main.vue')
+    path: '/db/rr/jackson-stars-rr-tn02stb-ltd',
+    name: 'JacksonStarsRRTN02STBLTD',
+    component: () => import('../views/database/rhoads/jackson-stars-rr-tn02stb-ltd/Main.vue')
   },
   {
     path: '/db/rr/jackson-stars-rr-tn02stb-ash',
