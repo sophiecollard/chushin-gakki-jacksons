@@ -6,10 +6,10 @@
       <div class="hero-body">
         <router-link to="/">
           <p class="title">
-            Chushin Gakki Jacksons &#38; Charvels
+            Chushin Gakki Jacksons
           </p>
           <p class="subtitle">
-            An opinionated guide to Japanese-made Jackson and Charvel guitars from the 90s and 2000s
+            An opinionated guide to Japanese-made Jackson guitars from the 90s and 2000s
           </p>
         </router-link>
       </div>
